@@ -5,5 +5,5 @@
 			   (height . 450))
 			 frameshot-config-github-readme))
 
-(find-file "selfie.png")
+(find-file "frameshot-selfie.png")
 (message "")
